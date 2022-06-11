@@ -1,0 +1,32 @@
+body{
+   background-color: #F1EAE7;
+}
+
+h1 {
+    font-size: 100px;
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    color: #642811;
+}
+
+h2{
+    font-size: 50px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#fruits{
+    color: #c44a45;
+}
+
+#vegetables{
+    color: #2eb812;
+}
+
+#general{
+    color:#5695b3
+}
+
+li {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+}
